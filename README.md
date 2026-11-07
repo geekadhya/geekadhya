@@ -1,42 +1,96 @@
-<h1 align="center">Hi 👋, I'm Adhya Mittal</h1>
-<h3 align="center">A Passionate Computer Programmer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekadhya&label=Profile%20views&color=0e75b6&style=flat" alt="geekadhya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekadhya" alt="geekadhya" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/adhyaml" target="blank"><img src="https://img.shields.io/twitter/follow/adhyaml?logo=twitter&style=for-the-badge" alt="adhyaml" /></a> </p>
-
-- 🔭 I’m currently working in **JavaTpoint PVT LTD**
-
-- 🌱 I’m currently learning **Web Development,JS,Android Development**
-
-- 👯 I’m looking to collaborate on **Website Project**
-
-- 🤝 Interested in collaboration for adding new features **In Websites**
-
-- 📝 I regularly write articles on [Generic Content](Generic Content)
-
-- 💬 Ask me about **Web Projects, programming**
-
-- 📫 How to reach me **adhyamittal01@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1AAlInxWzc3XneWyxxpCsA07-EMJZolLi/edit?usp=drive_link&ouid=104759905294698683932&rtpof=true&sd=true](https://docs.google.com/document/d/1AAlInxWzc3XneWyxxpCsA07-EMJZolLi/edit?usp=drive_link&ouid=104759905294698683932&rtpof=true&sd=true)
-
-- ⚡ Fun fact **I am Ironic.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adhyaml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhyaml" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adhya-mittal-44115228a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adhya-mittal-44115228a/" height="30" width="40" /></a>
-<a href="https://instagram.com/addhhyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="addhhyya" height="30" width="40" /></a>
+ <p align="center">
+  <img src="./assets/banner.svg" alt="Adhya Mittal" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C084FC&center=true&vCenter=true&width=720&lines=I+build+superpowers.;Engineering+meets+creativity.;Breaking+things%2C+fixing+things%2C+building+better.;Curiosity+is+part+of+the+stack." alt="Typing animation" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekadhya&show_icons=true&locale=en&layout=compact" alt="geekadhya" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adhya-mittal-44115228a/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/adhyaml"><img src="https://img.shields.io/badge/Twitter-DB2777?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://instagram.com/addhhyya"><img src="https://img.shields.io/badge/Instagram-F59E0B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:adhyamittal01@gmail.com"><img src="https://img.shields.io/badge/Email-1B1530?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekadhya&show_icons=true&locale=en" alt="geekadhya" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekadhya&" alt="geekadhya" /></p>
+## ✦ A little about me
+
+I'm Adhya — a Computer Science student, developer, designer, and someone who has a habit of turning random ideas into actual projects.
+
+I like being somewhere between engineering and creativity. One day I'm figuring out how something works under the hood; the next, I'm obsessing over a few pixels that don't feel quite right.
+
+I build, experiment, break stuff, fix it (eventually), and learn something new along the way.
+
+I don't wait for permission to build. If an idea interests me, I'd rather try making it real and figure things out as I go.
+
+**Currently exploring:** 
+- Building intelligent systems and experimenting with AI/LLMs.
+- Frontend engineering, UI/UX and interactive experiences.
+- Data visualization, Python and motorsport technology.
+- Turning interesting ideas into things people can actually use.
+
+Still figuring things out. Still building.
+
+---
+
+## ✦ Things I'm building
+
+| Project | The idea |
+| :--- | :--- |
+| 🛡️ [SENTINEL](https://github.com/geekadhya/REPO-NAME) | Exploring RAG, LLMs and prompt security to identify malicious instructions. |
+| 🏎️ [F1 Telemetry Analyzer](https://github.com/geekadhya/REPO-NAME) | A motorsport-inspired telemetry and race performance dashboard using OpenF1 data. |
+| 💄 [MIMI](https://github.com/geekadhya/mimi) | A personalized makeup intelligence platform combining product recommendations, skin analysis and guided routines. |
+| 🌐 [Portfolio](https://YOUR-PORTFOLIO-URL) | My little corner of the internet, built with Next.js and interactive motion. |
+| 🌱 [EnviroVista](https://github.com/geekadhya/REPO-NAME) | A project exploring environmental claims and evidence against greenwashing. |
+| 🎙️ [Bharat Voice](https://github.com/geekadhya/REPO-NAME) | A project exploring accessible, voice-based technology. |
+
+---
+
+## ✦ My toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/Python-1B1530?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1B1530?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-1B1530?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-1B1530?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-1B1530?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1B1530?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-1B1530?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1B1530?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-1B1530?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-1B1530?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-1B1530?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-1B1530?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-1B1530?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-1B1530?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-1B1530?style=flat-square&logo=linux&logoColor=white" />
+</p>
+
+---
+
+## ✦ GitHub activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=geekadhya&show_icons=true&hide_border=false&bg_color=0B0A12&title_color=C084FC&text_color=D4D4D8&icon_color=F59E0B&border_color=2A2438" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekadhya&layout=compact&bg_color=0B0A12&title_color=C084FC&text_color=D4D4D8&border_color=2A2438" alt="Top languages" />
+</p>
+
+---
+
+## ✦ Beyond the code
+
+I'm interested in the things that happen when technology meets the real world — visual effects, film, motorsport, design, interactive experiences and the occasional rabbit hole I didn't plan on falling into.
+
+I enjoy collaborating, exchanging ideas and learning from people who approach problems differently.
+
+If you're building something interesting, I'd love to hear about it.
+
+<p align="center">
+  <b>Build something. Break something. Learn something. Repeat.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7C3AED,50:DB2777,100:F59E0B" width="100%" alt="" />
+</p>
