@@ -1,7 +1,6 @@
  <p align="center">
-  <img src="./assets/banner.svg" alt="Adhya Mittal" width="100%" />
+  <img src="./banner.svg" alt="Adhya Mittal" width="100%" />
 </p>
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C084FC&center=true&vCenter=true&width=720&lines=I+build+superpowers.;Engineering+meets+creativity.;Breaking+things%2C+fixing+things%2C+building+better.;Curiosity+is+part+of+the+stack." alt="Typing animation" /></a>
 </p>
