@@ -34,17 +34,13 @@ Still figuring things out. Still building.
 
 ---
 
-## ✦ Things I'm building
+## ✦ Featured projects
 
-| Project | The idea |
+| Project | What it is |
 | :--- | :--- |
-| 🛡️ [SENTINEL](https://github.com/geekadhya/REPO-NAME) | Exploring RAG, LLMs and prompt security to identify malicious instructions. |
-| 🏎️ [F1 Telemetry Analyzer](https://github.com/geekadhya/REPO-NAME) | A motorsport-inspired telemetry and race performance dashboard using OpenF1 data. |
-| 💄 [MIMI](https://github.com/geekadhya/mimi) | A personalized makeup intelligence platform combining product recommendations, skin analysis and guided routines. |
-| 🌐 [Portfolio](https://YOUR-PORTFOLIO-URL) | My little corner of the internet, built with Next.js and interactive motion. |
-| 🌱 [EnviroVista](https://github.com/geekadhya/REPO-NAME) | A project exploring environmental claims and evidence against greenwashing. |
-| 🎙️ [Bharat Voice](https://github.com/geekadhya/REPO-NAME) | A project exploring accessible, voice-based technology. |
-
+| 🏎️ **[F1 Telemetry Analyzer](https://github.com/geekadhya/f1-telemetry-analyzer)** | A motorsport-inspired telemetry dashboard exploring race performance and driver data. |
+| 💄 **[MIMI](https://github.com/geekadhya/mimi)** | A personalized makeup intelligence platform combining skin analysis, product recommendations and guided routines. |
+| 🌌 **[Adhya Portfolio](https://github.com/geekadhya/adhya-portfolio)** | My personal digital space blending frontend engineering, UI/UX and interactive experiences. |
 ---
 
 ## ✦ My toolbox
