@@ -69,13 +69,24 @@ Still figuring things out. Still building.
 
 ---
 
-## ✦ GitHub activity
+## ✦ Currently in the workshop
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=geekadhya&show_icons=true&hide_border=false&bg_color=0B0A12&title_color=C084FC&text_color=D4D4D8&icon_color=F59E0B&border_color=2A2438" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekadhya&layout=compact&bg_color=0B0A12&title_color=C084FC&text_color=D4D4D8&border_color=2A2438" alt="Top languages" />
+  <img src="https://img.shields.io/badge/01-BUILDING-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/02-EXPERIMENTING-DB2777?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/03-DESIGNING-F59E0B?style=for-the-badge" />
 </p>
 
+| | What's happening |
+| :--- | :--- |
+| 🏎️ **Building** | F1 Telemetry Analyzer — making race data come alive |
+| 🛡️ **Experimenting** | AI, RAG systems and LLM security |
+| 🎨 **Designing** | Interfaces, interactions and digital experiences |
+| 🧠 **Learning** | Better ways to turn ideas into reality |
+
+<p align="center">
+  <i>"Still figuring things out. Still building."</i>
+</p>
 ---
 
 ## ✦ Beyond the code
