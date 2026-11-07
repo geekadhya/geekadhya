@@ -16,7 +16,7 @@
 
 ## ✦ A little about me
 
-I'm Adhya — a Computer Science student, developer, designer, and someone who has a habit of turning random ideas into actual projects.
+I'm Adhya, a Computer Science student, developer, designer, and someone who has a habit of turning random ideas into actual projects.
 
 I like being somewhere between engineering and creativity. One day I'm figuring out how something works under the hood; the next, I'm obsessing over a few pixels that don't feel quite right.
 
@@ -87,7 +87,7 @@ Still figuring things out. Still building.
 
 ## ✦ Beyond the code
 
-I'm interested in the things that happen when technology meets the real world — visual effects, film, motorsport, design, interactive experiences and the occasional rabbit hole I didn't plan on falling into.
+I'm interested in the things that happen when technology meets the real world visual effects, film, motorsport, design, interactive experiences and the occasional rabbit hole I didn't plan on falling into.
 
 I enjoy collaborating, exchanging ideas and learning from people who approach problems differently.
 
