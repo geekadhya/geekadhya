@@ -14,7 +14,7 @@
 
 ---
 
-## 01 — A little about me
+## 01 A little about me
 
 I'm Adhya, a Computer Science student, developer, designer, and someone who has a habit of turning random ideas into actual projects.
 
@@ -34,7 +34,7 @@ Still figuring things out. Still building.
 
 ---
 
-## 02 — Featured projects
+## 02 Featured projects
 
 | Project | What it is |
 | :--- | :--- |
@@ -44,7 +44,7 @@ Still figuring things out. Still building.
 
 ---
 
-## 03 — My toolbox
+## 03 My toolbox
 
 <p>
   <img src="https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=D4FF2E" />
@@ -66,7 +66,7 @@ Still figuring things out. Still building.
 
 ---
 
-## 04 — Currently in the workshop
+## 04 Currently in the workshop
 
 <p align="center">
   <img src="https://img.shields.io/badge/01-BUILDING-D4FF2E?style=for-the-badge" />
@@ -87,7 +87,7 @@ Still figuring things out. Still building.
 
 ---
 
-## 05 — Beyond the code
+## 05 Beyond the code
 
 I'm interested in the things that happen when technology meets the real world visual effects, film, motorsport, design, interactive experiences and the occasional rabbit hole I didn't plan on falling into.
 
