@@ -12,9 +12,7 @@
   <a href="mailto:adhyamittal01@gmail.com"><img src="https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=D4FF2E" alt="Email" /></a>
 </p>
 
----
-
-## 01 A little about me
+<img src="./assets/h-about.svg" alt="01 A little about me" width="100%" />
 
 I'm Adhya, a Computer Science student, developer, designer, and someone who has a habit of turning random ideas into actual projects.
 
@@ -24,72 +22,35 @@ I build, experiment, break stuff, fix it (eventually), and learn something new a
 
 I don't wait for permission to build. If an idea interests me, I'd rather try making it real and figure things out as I go.
 
-**Currently exploring:** 
-- Building intelligent systems and experimenting with AI/LLMs.
-- Frontend engineering, UI/UX and interactive experiences.
-- Data visualization, Python and motorsport technology.
-- Turning interesting ideas into things people can actually use.
+**Currently exploring:**
 
-Still figuring things out. Still building.
+<img src="./assets/exploring.svg" alt="Currently exploring: AI/LLMs, frontend and UI/UX, data visualization and motorsport technology, turning ideas into useful things" width="100%" />
 
----
+<p align="center"><i>Still figuring things out. Still building.</i></p>
 
-## 02 Featured projects
+<img src="./assets/h-projects.svg" alt="02 Featured projects" width="100%" />
 
-| Project | What it is |
-| :--- | :--- |
-| 🏎️ **[F1 Telemetry Analyzer](https://github.com/geekadhya/f1-telemetry-analyzer)** | A motorsport-inspired telemetry dashboard exploring race performance and driver data. |
-| 💄 **[MIMI](https://github.com/geekadhya/mimi)** | A personalized makeup intelligence platform combining skin analysis, product recommendations and guided routines. |
-| 🌌 **[Adhya Portfolio](https://github.com/geekadhya/adhya-portfolio)** | My personal digital space blending frontend engineering, UI/UX and interactive experiences. |
+<table>
+  <tr>
+    <td width="33%"><a href="https://github.com/geekadhya/f1-telemetry-analyzer"><img src="./assets/card-f1.svg" alt="F1 Telemetry Analyzer" width="100%" /></a></td>
+    <td width="33%"><a href="https://github.com/geekadhya/mimi"><img src="./assets/card-mimi.svg" alt="MIMI" width="100%" /></a></td>
+    <td width="33%"><a href="https://github.com/geekadhya/adhya-portfolio"><img src="./assets/card-portfolio.svg" alt="Adhya Portfolio" width="100%" /></a></td>
+  </tr>
+</table>
 
----
+<img src="./assets/h-toolbox.svg" alt="03 My toolbox" width="100%" />
 
-## 03 My toolbox
+<img src="./assets/toolbox.svg" alt="Python, JavaScript, TypeScript, C, HTML5, CSS3, React, Next.js, Tailwind CSS, Streamlit, MySQL, Pandas, Supabase, Git, Linux" width="100%" />
 
-<p>
-  <img src="https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=D4FF2E" />
-  <img src="https://img.shields.io/badge/JavaScript-141414?style=flat-square&logo=javascript&logoColor=D4FF2E" />
-  <img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=D4FF2E" />
-  <img src="https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=D4FF2E" />
-  <img src="https://img.shields.io/badge/Next.js-141414?style=flat-square&logo=nextdotjs&logoColor=D4FF2E" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-141414?style=flat-square&logo=tailwindcss&logoColor=D4FF2E" />
-  <img src="https://img.shields.io/badge/HTML5-141414?style=flat-square&logo=html5&logoColor=D4FF2E" />
-  <img src="https://img.shields.io/badge/CSS3-141414?style=flat-square&logo=css3&logoColor=D4FF2E" />
-  <img src="https://img.shields.io/badge/C-141414?style=flat-square&logo=c&logoColor=D4FF2E" />
-  <img src="https://img.shields.io/badge/MySQL-141414?style=flat-square&logo=mysql&logoColor=D4FF2E" />
-  <img src="https://img.shields.io/badge/Pandas-141414?style=flat-square&logo=pandas&logoColor=D4FF2E" />
-  <img src="https://img.shields.io/badge/Streamlit-141414?style=flat-square&logo=streamlit&logoColor=D4FF2E" />
-  <img src="https://img.shields.io/badge/Supabase-141414?style=flat-square&logo=supabase&logoColor=D4FF2E" />
-  <img src="https://img.shields.io/badge/Git-141414?style=flat-square&logo=git&logoColor=D4FF2E" />
-  <img src="https://img.shields.io/badge/Linux-141414?style=flat-square&logo=linux&logoColor=D4FF2E" />
-</p>
+<img src="./assets/h-workshop.svg" alt="04 Currently in the workshop" width="100%" />
 
----
+<img src="./assets/workshop.svg" alt="Building the F1 Telemetry Analyzer. Experimenting with AI, RAG systems and LLM security. Designing interfaces and interactions. Learning better ways to turn ideas into reality." width="100%" />
 
-## 04 Currently in the workshop
+<img src="./assets/h-beyond.svg" alt="05 Beyond the code" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/01-BUILDING-D4FF2E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/02-EXPERIMENTING-5E1717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/03-DESIGNING-F4F1EA?style=for-the-badge" />
-</p>
+I'm interested in the things that happen when technology meets the real world: visual effects, film, motorsport, design, interactive experiences and the occasional rabbit hole I didn't plan on falling into.
 
-| | What's happening |
-| :--- | :--- |
-| 🏎️ **Building** | F1 Telemetry Analyzer — making race data come alive |
-| 🛡️ **Experimenting** | AI, RAG systems and LLM security |
-| 🎨 **Designing** | Interfaces, interactions and digital experiences |
-| 🧠 **Learning** | Better ways to turn ideas into reality |
-
-<p align="center">
-  <i>"Still figuring things out. Still building."</i>
-</p>
-
----
-
-## 05 Beyond the code
-
-I'm interested in the things that happen when technology meets the real world visual effects, film, motorsport, design, interactive experiences and the occasional rabbit hole I didn't plan on falling into.
+<img src="./assets/beyond.svg" alt="Visual effects, film, motorsport, design, interactive experiences" width="100%" />
 
 I enjoy collaborating, exchanging ideas and learning from people who approach problems differently.
 
